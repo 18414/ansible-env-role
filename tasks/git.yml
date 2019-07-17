@@ -13,6 +13,4 @@
     repo:  https://github.com/18414/ansible.git
     dest: /home/ansible/ansible
     
- #   clone: yes
-#    update: no
 
